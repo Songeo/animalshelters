@@ -1,0 +1,11 @@
+version: 0.6
+data_loading: F
+cache_loading: F
+recursive_loading: FALSE
+munging: T
+logging: FALSE
+load_libraries: T
+libraries: tidyverse, stringr, lubridate, car, FactoMineR
+as_factors: TRUE
+data_tables: FALSE
+attach_internal_libraries: FALSE

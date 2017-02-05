@@ -1,0 +1,225 @@
+animaltype,breed,breedgroup,coat/size
+Cat,Abyssinian,,
+Cat,American Shorthair,,
+Cat,Angora,,
+Cat,Balinese,,
+Cat,Bengal,,
+Cat,Bombay,,
+Cat,British Shorthair,,
+Cat,Burmese,,
+Cat,Cornish Rex,,
+Cat,Cymric,,
+Cat,Devon Rex,,
+Cat,Domestic Longhair,,
+Cat,Domestic Medium Hair,,
+Cat,Domestic Shorthair,,
+Cat,Exotic Shorthair,,
+Cat,Havana Brown,,
+Cat,Himalayan,,
+Cat,Japanese Bobtail,,
+Cat,Javanese,,
+Cat,Maine Coon,,
+Cat,Manx,,
+Cat,Munchkin Longhair,,
+Cat,Norwegian Forest Cat,,
+Cat,Ocicat,,
+Cat,Persian,,
+Cat,Pixiebob Shorthair,,
+Cat,Ragdoll,,
+Cat,Rex,,
+Cat,Russian Blue,,
+Cat,Siamese,,
+Cat,Snowshoe,,
+Cat,Sphynx,,
+Cat,Tonkinese,,
+Cat,Turkish Van,,
+Dog,Affenpinscher,Companion,small
+Dog,Afghan Hound,Hound,medium
+Dog,Airedale Terrier,Terrier,medium
+Dog,Akita,Working,large
+Dog,Alaskan Husky,Working,large
+Dog,Alaskan Malamute,Working,large
+Dog,American Bulldog,Working/Guardian,large
+Dog,American Eskimo,Companion,small
+Dog,American Foxhound,Hound,large
+Dog,American Pit Bull Terrier,Terrier,medium
+Dog,American Staffordshire Terrier,Terrier,medium
+Dog,Anatol Shepherd,Working/Guardian,large
+Dog,Australian Cattle Dog,Herding,medium
+Dog,Australian Kelpie,Herding,medium
+Dog,Australian Shepherd,Herding,medium
+Dog,Australian Terrier,Terrier,small
+Dog,Basenji,Hound,medium
+Dog,Basset Hound,Hound,medium
+Dog,Beagle,Hound,medium
+Dog,Bearded Collie,Herding,medium
+Dog,Beauceron,Herding,large
+Dog,Bedlington Terr,Terrier,small
+Dog,Belgian Malinois,Herding,large
+Dog,Belgian Sheepdog,Herding,large
+Dog,Belgian Tervuren,Herding,large
+Dog,Bernese Mountain Dog,Working,large
+Dog,Bichon Frise,Companion,small
+Dog,Black Tan Hound,Hound,medium
+Dog,Black Mouth Cur,Hound,medium
+Dog,Bloodhound,Hound,large
+Dog,Blue Lacy,Hound,medium
+Dog,Bluetick Hound,Working,medium
+Dog,Boerboel,Working,large
+Dog,Border Collie,Herding,medium
+Dog,Border Terrier,Terrier,small
+Dog,Borzoi,Hound,large
+Dog,Boston Terrier,Companion,small
+Dog,Boxer,Working,medium
+Dog,Boykin Span,Sporting,medium
+Dog,Brittany,Sporting,medium
+Dog,Bruss Griffon,Companion,small
+Dog,Bull Terrier,Terrier,medium
+Dog,Bull Terrier Miniature,Terrier,small
+Dog,Bulldog,Companion,medium
+Dog,Bullmastiff,Working,large
+Dog,Cairn Terrier,Terrier,small
+Dog,Canaan Dog,Herding,medium
+Dog,Cane Corso,Working/Guardian,large
+Dog,Cardigan Welsh Corgi,Herding,small
+Dog,Carolina Dog,Hounds,medium
+Dog,Catahoula,Herding,large
+Dog,Cavalier Span,Companion,small
+Dog,Chesa Bay Retr,Sporting,medium
+Dog,Chihuahua Longhair,Companion,small
+Dog,Chihuahua Shorthair,Companion,small
+Dog,Chinese Crested,Companion,small
+Dog,Chinese Sharpei,Working,medium
+Dog,Chow Chow,Working,medium
+Dog,Cocker Spaniel,Sporting,medium
+Dog,Collie Rough,Herding,medium
+Dog,Collie Smooth,Herding,medium
+Dog,Dachshund,Hound,small
+Dog,Dachshund Longhair,Hound,small
+Dog,Dachshund Wirehair,Hound,small
+Dog,Dalmatian,Companion,medium
+Dog,Doberman Pinsch,Working/Guardian,large
+Dog,Dogo Argentino,Working/Guardian,large
+Dog,Dogue De Bordeaux,Working/Guardian,large
+Dog,Dutch Shepherd,Herding,medium
+Dog,English Bulldog,Companion,medium
+Dog,English Cocker Spaniel,Sporting,medium
+Dog,English Coonhound,Hound,medium
+Dog,English Foxhound,Hound,medium
+Dog,English Pointer,Sporting,medium
+Dog,English Setter,Sporting,medium
+Dog,English Shepherd,Herding,medium
+Dog,English Springer Spaniel,Sporting,medium
+Dog,Entlebucher,Working/Guardian,medium
+Dog,Feist,Sporting,small
+Dog,Field Spaniel,Sporting,medium
+Dog,Finnish Spitz,Hound,medium
+Dog,Flat Coat Retriever,Sporting,medium
+Dog,French Bulldog,Companion,small
+Dog,German Pinscher,Working,medium
+Dog,German Shepherd,Herding,large
+Dog,German Shorthair Pointer,Sporting,medium
+Dog,German Wirehaired Pointer,Sporting,medium
+Dog,Glen Of Imaal,Terrier,medium
+Dog,Golden Retriever,Sporting,medium
+Dog,Great Dane,Working,large
+Dog,Great Pyrenees,Working,large
+Dog,Greater Swiss Mountain Dog,Working,large
+Dog,Greyhound,Hound,large
+Dog,Harrier,Hound,medium
+Dog,Havanese,Companion,small
+Dog,Hovawart,Working/Guardian,large
+Dog,Ibizan Hound,Hound,medium
+Dog,Irish Setter,Sporting,large
+Dog,Irish Terrier,Terrier,medium
+Dog,Irish Wolfhound,Hound,large
+Dog,Italian Greyhound,Companion,small
+Dog,Jack Russell Terrier,Terrier,small
+Dog,Japanese Chin,Companion,small
+Dog,Jindo,Sporting,small
+Dog,Keeshond,Companion,medium
+Dog,Kuvasz,Working,large
+Dog,Labrador Retriever,Sporting,medium
+Dog,Landseer,Working,large
+Dog,Leonberger,Working,large
+Dog,Lhasa Apso,Companion,small
+Dog,Lowchen,Companion,small
+Dog,Maltese,Companion,small
+Dog,Manchester Terrier,Terrier,small
+Dog,Mastiff,Working,large
+Dog,Mexican Hairless,Companion,small
+Dog,Miniature Pinscher,Companion,medium
+Dog,Miniature Poodle,Companion,small
+Dog,Miniature Schnauzer,Terrier,small
+Dog,Neapolitan Mastiff,Working,large
+Dog,Newfoundland,Working,large
+Dog,Norfolk Terrier,Terrier,small
+Dog,Norwegian Elkhound,Hound,medium
+Dog,Norwich Terrier,Terrier,small
+Dog,Nova Scotia Duck Tolling Retriever,Sporting,medium
+Dog,Old English Bulldog,Companion,large
+Dog,Old English Sheepdog,Herding,large
+Dog,Otterhound,Hound,large
+Dog,Papillon,Companion,small
+Dog,Parson Russell Terrier,Terrier,small
+Dog,Patterdale Terr,Terrier,small
+Dog,Pbgv,Hound,medium
+Dog,Pekingese,Companion,small
+Dog,Pembroke Welsh Corgi,Herding,medium
+Dog,Pharaoh Hound,Hound,medium
+Dog,Picardy Sheepdog,Herding,medium
+Dog,Pit Bull,Terrier,medium
+Dog,Plott Hound,Hound,medium
+Dog,Podengo Pequeno,Hound,medium
+Dog,Pointer,Sporting,medium
+Dog,Pomeranian,Companion,small
+Dog,Port Water Dog,Working,medium
+Dog,Presa Canario,Working/Guardian,large
+Dog,Pug,Companion,small
+Dog,Queensland Heeler,Herding,medium
+Dog,Rat Terrier,Terrier,small
+Dog,Redbone Hound,Hound,medium
+Dog,Rhod Ridgeback,Hound,large
+Dog,Rottweiler,Working/Guardian,medium
+Dog,Saluki,Hound,medium
+Dog,Samoyed,Working,medium
+Dog,Schipperke,Companion,small
+Dog,Schnauzer Giant,Herding,large
+Dog,Scottish Terrier,Terrier,small
+Dog,Sealyham Terr,Terrier,small
+Dog,Shetland Sheepdog,Herding,small
+Dog,Shiba Inu,Companion,small
+Dog,Shih Tzu,Companion,small
+Dog,Siberian Husky,Working,medium
+Dog,Silky Terrier,Companion,small
+Dog,Skye Terrier,Terrier,medium
+Dog,Smooth Fox Terrier,Terrier,small
+Dog,Soft Coated Wheaten Terrier,Terrier,medium
+Dog,Spanish Mastiff,Working,large
+Dog,Spanish Water Dog,Herding,medium
+Dog,Spinone Italiano,Sporting,large
+Dog,St. Bernard Rough Coat,Working/Guardian,large
+Dog,St. Bernard Smooth Coat,Working/Guardian,large
+Dog,Staffordshire,Terrier,medium
+Dog,Standard Poodle,Companion,small
+Dog,Standard Schnauzer,Working,medium
+Dog,Swedish Vallhund,Herding,medium
+Dog,Swiss Hound,Hound,large
+Dog,Tibetan Spaniel,Companion,large
+Dog,Tibetan Terrier,Companion,small
+Dog,Toy Fox Terrier,Companion,small
+Dog,Toy Poodle,Companion,small
+Dog,Treeing Cur,Hound,medium
+Dog,Treeing Tennesse Brindle,Hound,medium
+Dog,Treeing Walker Coonhound,Hound,medium
+Dog,Unknown,Unknown,unknown
+Dog,Vizsla,Sporting,large
+Dog,Weimaraner,Sporting,large
+Dog,Welsh Springer Spaniel,Sporting,medium
+Dog,Welsh Terrier,Terrier,small
+Dog,West Highland,Terrier,small
+Dog,Whippet,Hound,medium
+Dog,Wire Hair Fox Terrier,Terrier,medium
+Dog,Wirehaired Pointing Griffon,Sporting,medium
+Dog,Yorkshire,Companion,small
+Dog,Yorkshire Terrier,Companion,small

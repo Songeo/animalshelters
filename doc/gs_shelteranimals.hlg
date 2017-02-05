@@ -1,0 +1,126 @@
+Tue May 24 21:20:44 2016
+
+
+Moral links:
+
+    Marrying gender and coat.size
+    Marrying stateoutcome and coat.size
+    Marrying stateoutcome and gender
+    Marrying age.f2 and breedgroup
+    Marrying age.f2 and coat.size
+    Marrying age.f2 and gender
+
+
+Triangulating prime component with 4 members:
+    breedtype, breedgroup, coat.size, age.f2
+This component is a clique of cost 144
+
+Triangulating prime component with 5 members:
+    outcometype, coat.size, gender, stateoutcome, age.f2
+This component is a clique of cost 240
+
+Triangulating prime component with 3 members:
+    stateoutcome, age.f2, name.know
+This component is a clique of cost 16
+
+
+Total cost of triangulation for all prime components is 400
+
+
+Elimination sequence:
+
+    breedgroup
+    breedtype
+    gender
+    outcometype
+    coat.size
+    name.know
+    stateoutcome
+    age.f2
+
+
+Cliques:
+
+Clique 3, 3 members, table size = 16:
+    age.f2, stateoutcome, name.know
+
+Clique 2, 5 members, table size = 240:
+    age.f2, stateoutcome, coat.size, outcometype, gender
+
+Clique 1, 4 members, table size = 144:
+    age.f2, coat.size, breedtype, breedgroup
+
+Total clique table size: 400
+
+
+The junction forest:
+
+Creating junction tree with clique 3 as root ...
+
+Cliques 2 and 3 linked, separator has 2 members and table size = 8:
+    age.f2, stateoutcome
+
+Cliques 1 and 2 linked, separator has 2 members and table size = 12:
+    age.f2, coat.size
+
+
+Assignment of potentials to cliques:
+
+    Node outcometype assigned to clique 2
+    Node breedtype assigned to clique 1
+    Node breedgroup assigned to clique 1
+    Node coat.size assigned to clique 1
+    Node gender assigned to clique 2
+    Node stateoutcome assigned to clique 3
+    Node age.f2 assigned to clique 3
+    Node name.know assigned to clique 3
+
+
+Checking conditional probability potentials:
+
+    No errors found
+
+
+Beliefs for chance nodes:
+
+    outcometype:
+	Adoption   0.431952
+	Died       0.00316322
+	Euthanasia 0.0525524
+	Return_to_owner 0.265689
+	Transfer   0.246644
+
+    breedtype:
+	Mixed      0.938745
+	Purebred   0.0612551
+
+    breedgroup:
+	Companion  0.246606
+	Herding    0.169745
+	Hound      0.102229
+	Sporting   0.156782
+	Terrier    0.217061
+	Working    0.107576
+
+    coat.size:
+	large      0.124194
+	medium     0.521083
+	small      0.354723
+
+    gender:
+	Female     0.461975
+	Male       0.538025
+
+    stateoutcome:
+	Intact     0.186129
+	Neutered/Spayed 0.813871
+
+    age.f2:
+	[0_1]      0.477395
+	_1_3]      0.270741
+	_3_7]      0.162013
+	_7_19]     0.0898509
+
+    name.know:
+	given      0.831803
+	no name    0.168197

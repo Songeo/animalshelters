@@ -1,0 +1,20 @@
+digraph {
+  "outcometype" ;
+  "breedtype" ;
+  "breedgroup" ;
+  "coat.size" ;
+  "gender" ;
+  "stateoutcome" ;
+  "age.f2" ;
+  "name.know" ;
+  edge [dir=forward] "breedgroup" -> "coat.size" ;
+  edge [dir=forward] "coat.size" -> "name.know" ;
+  edge [dir=forward] "stateoutcome" -> "outcometype" ;
+  edge [dir=forward] "stateoutcome" -> "name.know" ;
+  edge [dir=forward] "age.f2" -> "outcometype" ;
+  edge [dir=forward] "age.f2" -> "breedtype" ;
+  edge [dir=forward] "age.f2" -> "breedgroup" ;
+  edge [dir=forward] "age.f2" -> "stateoutcome" ;
+  edge [dir=forward] "age.f2" -> "name.know" ;
+  edge [dir=forward] "name.know" -> "outcometype" ;
+}
